@@ -8,10 +8,10 @@ title: Curriculum Vitae
 
 ### Education
 
-- **2018**: Ph.D in Geophysics,
-  [University of Science and Technology of China](http://en.ustc.edu.cn/), Hefei, China
+- **2017**: M.S. in Vehicle Engineering,
+  [Dalian University of Technology](https://www.dlut.edu.cn/), Dalian, China
 - **2012**: B.S. in Geophysics,
-  [University of Science and Technology of China](http://en.ustc.edu.cn/), Hefei, China
+  [Shenyang University of Technology](https://www.sut.edu.cn/), Shenyang, China
 
 ---
 
