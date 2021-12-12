@@ -27,14 +27,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Control Science and Engineering
+  - course: Ph.D. in Control Science and Engineering
     institution: Zhejiang University
     year: 2020
   - course: MEng in Vehicle Engineering
     institution: Dalian University of Technology
     year: 2017
   - course: BSc in Vehicle Engineering
-    institution: Shengyang University of Technology
+    institution: Shenyang University of Technology
     year: 2013
 
 # Social/Academic Networking
