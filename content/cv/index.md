@@ -2,12 +2,12 @@
 title: Curriculum Vitae
 ---
 
-[{{< icon name="file-pdf" pack="fas" >}}Download my full CV here](/uploads/Dongdong_Tian_CV.pdf).
+[{{< icon name="file-pdf" pack="fas" >}}Download my full CV here](/uploads/Xuemin_Chi_s_CV.pdf).
 
 ---
 
 ### Education
-- **2020**: Ph.D. in Vehicle Engineering,
+- **2020**: Ph.D. in Control Science and Engineering,
   [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China
 - **2017**: M.S. in Vehicle Engineering,
   [Dalian University of Technology](https://www.dlut.edu.cn/), Dalian, China
