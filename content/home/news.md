@@ -80,6 +80,6 @@ subtitle = '[SEE MORE NEWS <i class="fa fa-angle-double-right"></i>](/news/)'
   Oceanography, La Jolla, USA, Jul. 29–Aug. 2, 2019.
 
 - **2019-10-28**:
-  Our research in Medium-Mn steel reveals that the optimum tensile test parameters such as tensile speed and the position where speed changes can be found through BPNN and RBFNN. [This paper]({{< ref "/publication/servo-tensile-test-neural-network/index.md" >}}) is now available on [Materials](https://www.mdpi.com/1996-1944/12/22/3793),
+  Our research in Medium-Mn steel reveals that the optimum tensile test parameters such as tensile speed and the position where speed changes can be found through BPNN and RBFNN. [This paper](https://www.mdpi.com/1996-1944/12/22/3793) is now available on [Materials](https://www.mdpi.com/journal/materials),
   Hangzhou, China, Oct. 28, 2019.
 #
