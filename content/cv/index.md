@@ -16,16 +16,8 @@ title: Curriculum Vitae
 
 ---
 
-### Employment
 
-- **2021/11–present**: Associate Professor,
-					   [China University of Geosciences](https://en.cug.edu.cn), Wuhan, China
-- **2018/08–2021/09**: Postdoctoral Research Associate,
-					   [Michigan State University](https://msu.edu/), East Lansing, US
-
----
-
-### Professional Societies & Services
+### Research Experience
 
 - Member of the [American Geophysical Union (AGU)](https://sites.agu.org/) (2012–present)
 - Peer-reviewer of scientific journals:
@@ -61,15 +53,3 @@ title: Curriculum Vitae
 - **2013:** Outstanding student, Shenyang University of Technology, China.
 - **2013:** Second-class Scholarship, Shenyang University of Technology, China.
 ---
-
-### Funds
-
-- Startup, CUG One Hundred Talents Program, $280k (2021–2026)
-
----
-
-### Field Experience
-
-- **LEEP** (**L**ake **E**rie **E**arthquake ex**P**eriment),
-  install 8 broadband seismic stations around Lake Erie,
-  Oct. 10–16, 2018
