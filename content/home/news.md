@@ -84,3 +84,4 @@ subtitle = '[SEE MORE NEWS <i class="fa fa-angle-double-right"></i>](/news/)'
   [the 2019 UNAVCO Short Course "The Generic Mapping Tools for Geodesy"](https://www.unavco.org/education/professional-development/short-courses/2019/geodetic-gmt/geodetic-gmt.html),
   at Scripps Institution of Oceanography,
   La Jolla, USA, Jul. 22–23, 2019.
+#
