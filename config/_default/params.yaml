@@ -15,45 +15,27 @@ font_size: M
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'Xuemin Chi's academic website'
+description: "Dongdong Tian's academic website."
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: chixuemin@zju.edu.cn
-phone: 17300989XXX
+email: dtian@cug.edu.cn
+phone:
 address:
-  street: 450 Serra Mall
-  city: Hangzhou
-  region: Zhejiang
-  postcode: '310000'
+  street: 388 Lumo Rd
+  city: Wuhan
+  region: Hubei
+  postcode: '430074'
   country: China
   country_code: CN
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: ''
+  longitude: ''
 directions: ''
-office_hours:
-  - 'Weekday 08:00 to 23:00'
-  - 'Weekend 09:00 to 23:00'
+office_hours: ''
 appointment_url: ''
-contact_links: ''
-#  - icon: twitter
-#    icon_pack: fab
-#    name: DM Me
-#    link: 'https://twitter.com/Twitter'
-#  - icon: skype
-#    icon_pack: fab
-#    name: Skype Me
-#    link: 'skype:echo123?call'
-#  - icon: keybase
-#    icon_pack: fab
-#    name: Chat on Keybase
-#    link: 'https://keybase.io/'
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
+contact_links:
 
 # Site header
 
@@ -76,14 +58,13 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - r
 math: false
 diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: 'https://github.com/renaomin/starter-hugo-academic'
+  repo_url: 'https://github.com/seisman/academic-homepage'
   content_dir: ''
-  repo_branch: main
+  repo_branch: master
   editable:
     page: false
     post: false
@@ -93,7 +74,7 @@ show_related:
   page: false
   post: false
   project: false
-  publication: true
+  publication: false
   event: false
 reading_time: false
 section_pager: false
@@ -103,8 +84,8 @@ copyright_license:
   enable: true
   allow_derivatives: true
   share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  allow_commercial: true
+  notice: 'Except where otherwise noted, all content is licensed under {license}.'
 abstract_length: 135
 plugins_js: []
 avatar:
@@ -115,8 +96,8 @@ publications:
   citation_style: apa
 projects:
   post_view: 2
-  publication_view: 2
-  talk_view: 2
+  publication_view: 4
+  talk_view: 1
 breadcrumb:
   page_types:
     book: true
