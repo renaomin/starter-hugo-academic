@@ -20,7 +20,7 @@ content:
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-  link_to_archive = false
+  # link_to_archive = false
 
 design:
   # Choose a view for the listings:
