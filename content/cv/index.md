@@ -47,15 +47,18 @@ title: Curriculum Vitae
 
 ### Awards & Honors
 
-- **2021:** One Hundred Talents Program, China University of Geosciences, China
-- **2018:** President Award, Chinese Academy of Science, China
-- **2018:** Outstanding Graduate Student, University of Science and Technology of China, China
-- **2017:** Outstanding Student Paper Award, 2017 Annual Meeting of Chinese Geoscience Union, China
-- **2017:** National Scholarship for Doctoral Students, Ministry of Education, China
-- **2014:** Kwang-Hua Scholarship, Kwang-Hua Education Foundation, China
-- **2010:** Kwang-Hua Scholarship, Kwang-Hua Education Foundation, China
-- **2009:** Outstanding Volunteer, University of Science and Technology of China, China
-
+- **2020:** Freshman Scholarship, Zhejiang University, China. (Top 3%)
+- **2020:** Academic Scholarship, Zhejiang University, China.
+- **2019:** Third prize of school in "Internet plus" college students innovation and entrepreneurship competition, China.
+- **2018:** Second-class Scholarship, Dalian University of Technology, China.
+- **2017:** Second-class Scholarship, Dalian University of Technology, China.
+- **2016:** Provincial first prize in National College Student Entrepreneurship Competition, China. (Top 5%)
+- **2016:** Natiional third prize in National mechanical innovation design competition for college students, China.
+- **2015:** Second prize of school in FLTRP Cup National English Debating Competition, China. (Top 2%)
+- **2015:** Third prize of school in FLTRP Cup National English Debating Competition, China.
+- **2014:** First-class Scholarship, Shengyang University of Technology, China.
+- **2013:** Outstanding student, Shengyang University of Technology, China.
+- **2013:** Second-class Scholarship, Shengyang University of Technology, China.
 ---
 
 ### Funds
