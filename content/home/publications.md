@@ -1,10 +1,13 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
-headless: true
-weight: 40
-subtitle: ""
+
+widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
+
+title = "Featured Publications"
 subtitle = '[SEE ALL PUBLICATIONS <i class="fa fa-angle-double-right"></i>](/publication/)'
 
 content:
