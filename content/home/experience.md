@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 41
+weight: 40
 
 title: Experience
 subtitle:
@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Bachelor of Science
-    company: Shenyang University of Technology
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
     company_logo: org-x
-    location: Shenyang, China
-    date_start: '2013-09-01'
-    date_end: '2017-6-17'
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
