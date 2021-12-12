@@ -33,7 +33,9 @@ coordinates:
   latitude: ''
   longitude: ''
 directions: ''
-office_hours: ''
+office_hours: 
+  - 'Weekday 08:00 to 22:00'
+  - 'Weekend 09:00 to 22:00'
 appointment_url: ''
 contact_links:
 
