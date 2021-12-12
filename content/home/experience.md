@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: 'Bachelor of Science'
+    company: 'Shenyang University of technology'
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: 'China'
+    date_start: '2013-09-01'
+    date_end: '2017-6-16'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
