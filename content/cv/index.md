@@ -7,10 +7,11 @@ title: Curriculum Vitae
 ---
 
 ### Education
-
+- **2020**: Ph.D. in Vehicle Engineering,
+  [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China
 - **2017**: M.S. in Vehicle Engineering,
   [Dalian University of Technology](https://www.dlut.edu.cn/), Dalian, China
-- **2012**: B.S. in Geophysics,
+- **2013**: B.S. in Geophysics,
   [Shenyang University of Technology](https://www.sut.edu.cn/), Shenyang, China
 
 ---
