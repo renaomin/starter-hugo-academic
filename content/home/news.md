@@ -75,9 +75,9 @@ subtitle = '[SEE MORE NEWS <i class="fa fa-angle-double-right"></i>](/news/)'
   [the 2020 UNAVCO Short Course "The Generic Mapping Tools for Geodesy"](https://www.unavco.org/education/professional-development/short-courses/2020/geodetic-gmt/geodetic-gmt.html),
   online via Zoom.
 
-- **2019-07-29**:
-  Dongdong particats the GMT Developer's Summit at Scripps Institution of
-  Oceanography, La Jolla, USA, Jul. 29–Aug. 2, 2019.
+- **2020-06-29**:
+  Xuemin Chi joined Hongye Su's team and supervised by Zhitao Liu,
+  Hangzhou, China, June. 29, 2020.
 
 - **2019-10-28**:
   Our research in Medium-Mn steel reveals that the optimum tensile test parameters such as tensile speed and the position where speed changes can be found through BPNN and RBFNN. [This paper](https://www.mdpi.com/1996-1944/12/22/3793) is now available on [Materials](https://www.mdpi.com/journal/materials),
