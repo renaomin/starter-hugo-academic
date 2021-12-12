@@ -26,17 +26,6 @@ hugo server
 bash update_wowchemy.sh
 ```
 
-### Changes to the official theme
-
-I've made some changes/customizations to the official wowchemy theme.
-The customized templates are located in the [layouts](/layouts) directory.
-
-Run the following command to view the changes compared to the official theme:
-```
-cd layouts
-bash changes.sh
-```
-
 ### License
 
 Except where otherwise noted, all content is licensed under a
