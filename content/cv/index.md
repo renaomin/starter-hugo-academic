@@ -7,11 +7,11 @@ title: Curriculum Vitae
 ---
 
 ### Education
-- **2020**: Ph.D. in Control Science and Engineering,
+- **2020 - present**: Ph.D. in Control Science and Engineering,
   [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China
-- **2017**: M.S. in Vehicle Engineering,
+- **2017 - 2019**: M.S. in Vehicle Engineering,
   [Dalian University of Technology](https://www.dlut.edu.cn/), Dalian, China
-- **2013**: B.S. in Vehicle Engineering,
+- **2013 - 2017**: B.S. in Vehicle Engineering,
   [Shenyang University of Technology](https://www.sut.edu.cn/), Shenyang, China
 
 ---
