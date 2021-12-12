@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 headless: true # This file represents a page section.
-active = true  # Activate this widget? true/false
+
 weight: 30 # Order that this section appears on the page.
 
 title: 'Research'
