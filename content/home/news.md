@@ -50,7 +50,9 @@ subtitle = '[SEE MORE NEWS <i class="fa fa-angle-double-right"></i>](/news/)'
  css_class = ""
 +++
 
-
+- **2020-11-15**:
+  Xuemin Chi won freshman scholarship,
+  Hangzhou, China, Nov. 15, 2020.
 
 - **2020-06-29**:
   Xuemin Chi joined Hongye Su's team and supervised by Zhitao Liu,
