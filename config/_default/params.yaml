@@ -15,18 +15,18 @@ font_size: M
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: "Dongdong Tian's academic website."
+description: "Xuemin Chi's academic website."
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: dtian@cug.edu.cn
+email: chixuemin@zju.edu.cn
 phone:
 address:
-  street: 388 Lumo Rd
-  city: Wuhan
-  region: Hubei
-  postcode: '430074'
+  street: Xihu District, 38 Zheda Road
+  city: Hangzhou
+  region: Zhejiang
+  postcode: '310000'
   country: China
   country_code: CN
 coordinates:
@@ -62,7 +62,7 @@ math: false
 diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: 'https://github.com/seisman/academic-homepage'
+  repo_url: 'https://github.com/renaomin/starter-hugo-academic'
   content_dir: ''
   repo_branch: master
   editable:
