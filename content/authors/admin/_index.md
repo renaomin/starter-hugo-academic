@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xuemin Chi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Zhejiang University
+  url: https://www.zju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a PhD candidate in Zhejiang University with broad interests in self-driving cars and motion planning.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Self-driving cars
+- Motion Planning(Path Planning and Trajectory Planning)
+- Model Predictive Control
+- Reinforcement Learning
+- Heuristic Search
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Control Science and Engineering
+    institution: Zhejiang University
+    year: 2020
+  - course: MEng in Vehicle Engineering
+    institution: Dalian University of Technology
+    year: 2017
+  - course: BSc in Vehicle Engineering
+    institution: Shengyang University of Technology
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,7 +53,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/renaomin
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -70,8 +72,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xuemin Chi is a PhD candidate in Control science and engineering at [Zhejiang University](http://www.zju.edu.cn/). He is a member of [Prof. Hongye Su](https://scholar.google.com/citations?user=9rfFRjgAAAAJ&hl=zh-CN&oi=ao)'s team and supervised by [Prof. Zhitao Liu](https://scholar.google.com/citations?hl=zh-CN&user=WIRnEuAAAAAJ). He has received Master degree from [Dalian University of Technology](http://www.dlut.edu.cn) in 2019.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is passion about contributing to a further understanding of motion planning and decision making in autonomous vehicles. His research interes include convex optimization, heurist search, reinforcement learning and model predictive control.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
