@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 headless: true
-weight: 80
+weight: 40
 subtitle: ""
 subtitle = '[SEE ALL PUBLICATIONS <i class="fa fa-angle-double-right"></i>](/publication/)'
 
