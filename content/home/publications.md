@@ -2,15 +2,10 @@
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 80
-
-title: Featured Publications
 subtitle: ""
+subtitle = '[SEE ALL PUBLICATIONS <i class="fa fa-angle-double-right"></i>](/publication/)'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -25,6 +20,7 @@ content:
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  link_to_archive = false
 
 design:
   # Choose a view for the listings:
