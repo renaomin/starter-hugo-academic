@@ -57,9 +57,9 @@ title: Curriculum Vitae
 - **2016:** Natiional third prize in National mechanical innovation design competition for college students, China.
 - **2015:** Second prize of school in FLTRP Cup National English Debating Competition, China. (Top 2%)
 - **2015:** Third prize of school in FLTRP Cup National English Debating Competition, China.
-- **2014:** First-class Scholarship, Shengyang University of Technology, China.
-- **2013:** Outstanding student, Shengyang University of Technology, China.
-- **2013:** Second-class Scholarship, Shengyang University of Technology, China.
+- **2014:** First-class Scholarship, Shenyang University of Technology, China.
+- **2013:** Outstanding student, Shenyang University of Technology, China.
+- **2013:** Second-class Scholarship, Shenyang University of Technology, China.
 ---
 
 ### Funds
