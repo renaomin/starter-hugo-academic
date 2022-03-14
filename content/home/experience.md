@@ -53,8 +53,9 @@ experience:
     location: 'Shenyang, Liaoning Province, China'
     date_start: '2013-09-15'
     date_end: '2017-06-16'
-    Basic information:
-            
+    description: |2-
+        Basic information:
+        
         * Major: Vehicle Engineering
 
 design:
