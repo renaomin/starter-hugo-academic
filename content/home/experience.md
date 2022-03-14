@@ -42,7 +42,7 @@ experience:
     company_logo: org-x
     location: 'China'
     date_start: '2013-09-01'
-    date_end: '2017-6-16'
+    date_end: ''
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
