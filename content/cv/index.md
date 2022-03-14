@@ -16,28 +16,6 @@ title: Curriculum Vitae
 
 ---
 
-
-### Research Experience
-
-- Member of the [American Geophysical Union (AGU)](https://sites.agu.org/) (2012–present)
-- Peer-reviewer of scientific journals:
-  *Geophysical Research Letters*,
-  *Seismological Research Letters*,
-  *Review of Scientific Instruments*,
-  *Journal of Open Source Software*,
-  *Results of Geophysical Sciences*
-- Founder of the [SeisMan blog](https://blog.seisman.info) (since 2013),
-  [GMT China Community](http://gmt-china.org/) (since 2016) and
-  [seismo‑learn](https://seismo-learn.org/) (since 2020)
-- Core developer of the [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/)
-  and [PyGMT](https://www.pygmt.org/) (2018–present)
-- Research Assistant and database manager for [China Seismological Reference Model](http://chinageorefmodel.org/) (2016–2018)
-- Judge for the Outstanding Student Paper Award, AGU Fall Meeting (2018–2019)
-- Instructor for the UNAVCO Short Course "The Generic Mapping Tools for Geodesy" (2019–2021)
-- Instructor for the Workshop SCIWS4: [Become a Generic Mapping Tools Contributor Even If You Can't Code](https://www.agu.org/Events/SCIWS4-Generic-Mapping-Tools), 2019 AGU Fall Meeting (2019)
-
----
-
 ### Awards & Honors
 
 - **2020:** Freshman Scholarship, Zhejiang University, China. (Top 3%)
