@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Deploying
 
- - title: CEO
+  - title: CEO
     company: GenCoin
     company_url: ''
     company_logo: Dalian logo
