@@ -18,10 +18,8 @@ bio: I'm a PhD candidate in Zhejiang University with broad interests in self-dri
 
 # Interests to show in About widget
 interests:
-- Self-driving cars
-- Motion Planning(Path Planning and Trajectory Planning)
+- Motion Planning (Path Planning and Trajectory Planning)
 - Model Predictive Control
-- Reinforcement Learning
 - Heuristic Search
 
 # Education to show in About widget
