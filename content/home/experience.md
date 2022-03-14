@@ -59,5 +59,5 @@ experience:
         * Major: Vehicle Engineering
 
 design:
-  columns: '2'
+  columns: '3'
 ---
