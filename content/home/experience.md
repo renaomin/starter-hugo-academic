@@ -35,6 +35,20 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+
+ - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: Dalian logo
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
         
   - title: Bachelor of Science
     company: 'Shenyang University of technology'
