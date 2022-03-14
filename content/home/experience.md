@@ -22,28 +22,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: Dalian logo
-    location: California
-    date_start: '2021-01-01'
+- title: 'PhD candidate'
+    company: Zhejiang University
+    company_url: 'https://www.zju.edu.cn/'
+    company_logo: Zhejiang logo
+    location: 'Hangzhou, Zhejiang Province, China'
+    date_start: '2020-09-16'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Basic information:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Major: Control Science and Engineering
+        
+  - title: 'Master of Science'
+    company: Dalian University of Technology
+    company_url: 'https://www.dlut.edu.cn/'
+    company_logo: Dalian logo
+    location: 'Dalian, Liaoning Province, China'
+    date_start: '2017-09-16'
+    date_end: '2019-06-16'
+    description: |2-
+        Basic information:
+        
+        * Major: Vehicle Engineering
         
   - title: 'Bachelor of Science'
     company: 'Shenyang University of technology'
-    company_url: ''
+    company_url: 'https://www.sut.edu.cn/'
     company_logo: Shenyang logo
-    location: 'China'
+    location: 'Shenyang, Liaoning Province, China'
     date_start: '2013-09-15'
     date_end: '2017-06-16'
-    description: Taught electronic engineering and researched semiconductor physics.
+    Basic information:
+            
+        * Major: Vehicle Engineering
 
 design:
   columns: '2'
