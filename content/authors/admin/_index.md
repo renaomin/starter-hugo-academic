@@ -72,6 +72,6 @@ highlight_name: true
 
 Xuemin Chi is a PhD candidate in Control science and engineering at [Zhejiang University](http://www.zju.edu.cn/). He is a member of [Prof. Hongye Su](https://scholar.google.com/citations?user=9rfFRjgAAAAJ&hl=zh-CN&oi=ao)'s team and supervised by [Prof. Zhitao Liu](https://scholar.google.com/citations?hl=zh-CN&user=WIRnEuAAAAAJ). He has received Master degree from [Dalian University of Technology](http://www.dlut.edu.cn) in 2019.
 
-He is passion about contributing to a further understanding of motion planning and decision making in autonomous vehicles. His research interes include convex optimization, heurist search, reinforcement learning and model predictive control.
+He is passion about contributing to a further understanding of motion planning and decision making in robotics. His research interes include convex optimization, heurist search, reinforcement learning and model predictive control.
 
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
