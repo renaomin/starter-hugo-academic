@@ -9,10 +9,8 @@ header:
 
 ### 2021
 
-- **2021-07-20**:
-  Dongdong serves as an instructor of
-  [the 2021 UNAVCO Short Course "The Generic Mapping Tools for Geodesy"](https://www.unavco.org/event/2021-short-course-gmt-for-geodesy/)
-  online via Zoom.
+- **2021-12-20**:
+  Nothing new.
 
 ### 2020
 
