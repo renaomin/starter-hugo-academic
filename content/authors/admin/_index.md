@@ -18,8 +18,9 @@ bio: I'm a PhD candidate in Zhejiang University with broad interests in self-dri
 
 # Interests to show in About widget
 interests:
-- Motion Planning (Path Planning and Trajectory Planning)
+- Motion Planning
 - Model Predictive Control
+- Learning from Demonstration
 
 # Education to show in About widget
 education:
