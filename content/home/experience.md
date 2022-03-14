@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: org-gc
+    company_logo: Dalian logo
     location: California
     date_start: '2021-01-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: 'Bachelor of Science'
     company: 'Shenyang University of technology'
     company_url: ''
-    company_logo: org-x
+    company_logo: Shenyang logo
     location: 'China'
     date_start: '2013-09-15'
     date_end: '2017-06-16'
