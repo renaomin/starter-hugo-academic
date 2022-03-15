@@ -15,11 +15,11 @@ header:
 ### 2020
 
 - **2020-11-15**:
-  Xuemin Chi won freshman scholarship,
+  Xuemin won freshman scholarship,
   Hangzhou, China, Nov. 15, 2020.
 
 - **2020-06-29**:
-  Xuemin Chi joined Hongye Su's team and supervised by Zhitao Liu,
+  Xuemin Chi joined Hongye Su's team and was supervised by Zhitao Liu,
   Hangzhou, China, June. 29, 2020.
 
 ### 2019
