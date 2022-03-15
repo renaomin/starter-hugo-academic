@@ -10,9 +10,9 @@ main:
   - name: "CV"
     url: '/cv/'
     weight: 2
-  - name: News
-    url: '/news/'
-    weight: 3
+#  - name: News
+#    url: '/news/'
+#    weight: 3
 #  - name: Research
 #    url: '/research/'
 #    weight: 4
